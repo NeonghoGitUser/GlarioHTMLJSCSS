@@ -1,0 +1,55 @@
+/*@media only screen and (min-width: 360px) 
+    {*/
+    html,body 
+        {	
+		/*background-image: url('CaelumGladioDefaultBackround.png');*/
+		background-color: black; 
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: 100% 100%;	
+        -webkit-text-size-adjust: none;
+        color: white;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0px;
+        position: absolute;
+        font-weight: normal;
+        font-family: "Courier New", Courier, monospace;
+		scale: 1.0;		
+        }
+		
+			
+   #maindiv:
+        {
+        -webkit-text-size-adjust: none;
+		/*background-image: url('CaelumGladioDefaultBackround.png');*/
+		background-repeat: no-repeat;
+		background-attachment: fixed; 
+		background-size: 100% 100%;			
+		
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        position: absolute;
+        font-weight: normal;
+        font-family: "Courier New", Courier, monospace;
+        }
+		
+   #canvasdiv:
+        {
+
+        /*left: 0;*/
+        /*top: 0;*/
+        /*transform: translate(-25%, -25%);*/
+        /*-webkit-transform: translate(-25%, -25%);*/
+        width: 505px;
+        height: 305px;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+        }
+		
+
+
